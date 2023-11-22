@@ -87,7 +87,7 @@
         "php": ">=7.2",
         "illuminate/broadcasting": "^5.0|^6.0|^7.0|^8.0|^9.0",
         "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0",
-        "shetabit/multipay": "dev-v1.36.01-branch"
+        "shetabit/multipay": "dev-master"
     },
     "repositories": [
         {
